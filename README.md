@@ -20,4 +20,4 @@ Simple usage of SSM Distributor to deploy a config file to managed instances.
    1. Location - Enter S3 bucket prefix of uploaded files
    1. Manifest - Extract from package
 1. Set new version as default version
-1. Install using Run Command or State Manager document "AWS-ConfigureAWSPackage"
+1. Install using SSM document `AWS-ConfigureAWSPackage` via Run Command or State Manager
