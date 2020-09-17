@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "2.0",
+  "version": "1.0.4",
+  "publisher": "AustinHeiman",
+  "packages": {
+    "windows": {
+      "_any": {
+        "_any": {
+          "file": "windows.zip"
+        }
+      }
+    },
+    "amazon": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "centos": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "debian": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "opensuse": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "opensuseleap": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "oracle": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "redhat": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "suse": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    },
+    "ubuntu": {
+      "_any": {
+        "_any": {
+          "file": "linux.zip"
+        }
+      }
+    }
+  },
+  "files": {
+    "windows.zip": {
+      "checksums": {
+        "sha256": "8371ec360e27031052b62b053bc249e4cd27f8e05a776a120c73bce5558d96d8"
+      }
+    },
+    "linux.zip": {
+      "checksums": {
+        "sha256": "e98d8b7406f9876bf621a00d3a3c07e762730573a7beb81c9a54fae92eb98bf6"
+      }
+    }
+  }
+}
